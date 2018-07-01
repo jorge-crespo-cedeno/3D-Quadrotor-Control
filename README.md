@@ -1,5 +1,5 @@
 
-# Quadrotor Control in the Plane
+# Quadrotor Control in the Space and Trajectory Generation
 
 This an implementation of a Proportional Derivative (PD) controller in three dimensions for a Quadrotor. This assigment was part of the Aerial robotics course given by the University of Pennsylvania through Coursera.
 
